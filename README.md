@@ -1,9 +1,9 @@
 # rusty-curves
 [![Tests](https://github.com/matias-gonz/rusty-curves/actions/workflows/tests.yml/badge.svg)](https://github.com/matias-gonz/rusty-curves/actions/workflows/tests.yml)
 
-Elliptic curve primitives implemented using bare rust and math
+Elliptic curves implemented using bare rust and math
 
-## Primitives
+## Types
 
 ### Field Element
 
